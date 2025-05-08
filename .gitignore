@@ -1,0 +1,17 @@
+.vscode
+.DS_Store
+game/cache
+game/saves
+*.rpa
+*.rpyb
+*.rpyc
+*.pyc
+*.bak
+DDLCModTemplate-*.*.*.zip
+errors.txt
+ost_log.txt
+errors.txt
+IceEngine.APT.txt
+log.txt
+traceback.txt
+firstrun
